@@ -1,9 +1,9 @@
 ;;;; utf16-compat.asd
 
 (asdf:defsystem #:utf16-compat
-  :description "Describe utf16-compat here"
-  :author "Your Name <your.name@example.com>"
-  :license  "Specify license here"
+  :description "UTF-16 compatible functions"
+  :author "Vee Satayamas <vsatayamas@gmail.com>"
+  :license  "GPL-3"
   :version "0.0.1"
   :serial t
   :depends-on (#:babel)
