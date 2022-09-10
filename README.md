@@ -5,5 +5,4 @@ UTF-16 compatible functions
 
 ## License
 
-Specify license here
-
+GPL-3
