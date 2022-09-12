@@ -6,6 +6,6 @@
   :license  "GPL-3"
   :version "0.0.1"
   :serial t
-  :depends-on (#:babel)
+  :depends-on (#:babel #:arrow-macros)
   :components ((:file "package")
                (:file "utf16-compat")))
